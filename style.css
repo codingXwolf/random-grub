@@ -1,0 +1,31 @@
+h1 	{
+	text-align: center;
+}
+
+h2	{
+	text-align:center;
+}
+
+body	{
+	background:#3193C4;
+}
+
+
+.my-form{
+	padding:20px;
+}
+
+.form-group .form-group{
+	padding-bottom:15px;
+}
+
+.my-form label{
+	display:block;
+}
+
+.my-form input[type="text"], .my-form textarea{
+	padding:20px;
+	width:80%;
+
+}
+
